@@ -45,7 +45,7 @@ Nombre d'erreurs avant la découverte du mot       Score
 
 Mot non trouvé                                   Inchangé
 
-9
+
 
 Règles du jeu
 
